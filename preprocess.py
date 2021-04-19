@@ -5,7 +5,7 @@ Created on Fri Apr 16 16:13:49 2021
 @author: gianm
 """
 
-#Class untuk membuat dictionary yang berisi POS dan jumlah kemunculannya
+#Class untuk membuat dictionary yang berisi POS dari dokumen
 
 from nltk import sent_tokenize, word_tokenize, pos_tag
 import re
